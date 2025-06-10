@@ -12,7 +12,7 @@
 
 - Le header a une vidéo en background (un lien codepen vous aidera à mettre cela en place).
 
-- La section *Le nouveau chef d'oeuvre* inclut un parallax (un lien d'aide est fourni).
+- La section *Riot Games* inclut un parallax (un lien d'aide est fourni).
 
 - Le bouton CTA situé en bas à gauche de la maquette doit être toujours visible au scroll. Au clic dessus, le popup suivant apparait :
 
