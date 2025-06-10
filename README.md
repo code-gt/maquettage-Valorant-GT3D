@@ -8,7 +8,7 @@
 
 - Un maximum d'aides et de consignes sont données dans les fichiers `index.html`, `style.css` et `main.js`. **Merci de les lire !**
 
-- Les textes sont fournis dans le dosier `textes`
+- Les textes sont fournis dans le dossier `textes`
 
 - Le header a une vidéo en background (un lien codepen vous aidera à mettre cela en place).
 
