@@ -1,0 +1,168 @@
+### Navbar
+
+- Accueil
+- Gameplay
+- We Are
+- Agents
+- Cartes
+- Patch
+- Configuration
+
+
+
+### Header
+- Un jeu tactique de tir en 5 contre 5
+- Date de sortie: 02/06/2020
+- Genre: FPS Tactique
+- Développeur: Riot Games
+
+
+
+### Section Gameplay
+Un FPS tactique précis et compétitif
+
+Valorant est un jeu de tir tactique en 5 contre 5 où chaque agent possède des compétences uniques pour attaquer et défendre. Ce jeu combine des éléments de tir précis avec des capacités spéciales, créant une expérience de jeu dynamique et stratégique. Chaque agent, avec ses propres compétences, permet aux joueurs de personnaliser leur approche en fonction de leur style de jeu et des besoins de l'équipe.
+
+Dans Valorant, vous incarnez un agent doté de compétences uniques, à utiliser pour attaquer et défendre. Chaque agent appartient à une classe spécifique, comme les duellistes, les initiateurs, les contrôleurs ou les sentinelles, offrant ainsi une variété de rôles à jouer sur le champ de bataille. Ces classes permettent des approches variées pour chaque match, où la coordination et la communication sont essentielles pour réussir.
+
+Le jeu se déroule sur des cartes variées, chacune avec ses propres caractéristiques et points stratégiques. Les joueurs doivent travailler ensemble pour planifier et exécuter des stratégies efficaces, en utilisant les caractéristiques de la carte à leur avantage. La connaissance des cartes et la capacité à s'adapter rapidement aux changements de situation sont cruciales pour dominer l'adversaire.
+
+
+Jouer à Valorant
+PC
+PS5
+X-Box Séries X/S
+Acheter
+
+
+
+
+### Section Parallax
+Un jeu de tir tactique de Riot Games
+
+
+
+
+### Section "Nous sommes Valorant"
+Nous sommes Valorant
+
+Repoussez les limites
+
+Prouvez la supériorité de votre expérience avec style dans une compétition mondiale. Alternez les phases d'attaque et de défense, et remportez 13 manches à l'aide de mécaniques de tir précises et de compétences tactiques. Avec une seule vie par manche, vous devrez réfléchir plus vite que votre adversaire pour survivre. Affrontez d'autres joueurs dans les modes Compétition et Non classé, mais aussi en Combat à mort et Spike Rush.
+
+Apprendre à jouer
+
+
+
+
+### Section Agents
+
+Vos Agents
+
+Jett
+Représentante de sa patrie, la Corée du Sud, Jett dispose d'un style de combat basé sur l'agilité et l'esquive, qui lui permet de prendre des risques qu'elle seule peut se permettre de prendre. Elle tourne autour des affrontements et découpe ses ennemis avant même qu'ils ne s'en rendent compte.
+
+Phoenix
+En provenance du Royaume-Uni, Phoenix illumine le champ de bataille avec ses pouvoirs astraux et son style de combat flamboyant. Peu importe que les renforts arrivent ou non, il fonce au combat quand il le décide.
+
+Sage
+Véritable pilier originaire de Chine, Sage assure sa sécurité et celle de son équipe où qu'elle aille. Elle peut réanimer ses alliés tombés au combat et repousser les assauts ennemis pour offrir des oasis de tranquillité sur un champ de bataille infernal.
+
+Sova
+Né dans l'hiver éternel de la toundra russe, Sova traque, trouve et élimine ses ennemis avec une efficacité et une précision redoutables. Ses incroyables talents d'éclaireur et son arc personnalisé lui garantissent que sa cible ne fuira jamais très longtemps.
+
+Viper
+Viper est une chimiste américaine qui déploie un arsenal d'appareils toxiques pour contrôler le champ de bataille et entraver la vision des ennemis. Si les toxines ne suffisent pas à abattre sa proie, ses machinations finiront le travail.
+
+Reyna
+Originaire du cœur du Mexique, Reyna est une experte des combats singuliers qui se renforce à chaque élimination qu'elle réussit. Son efficacité n'est limitée que par son habileté, ce qui la rend très dépendante de ses propres performances.
+
+Killjoy
+Véritable génie originaire d'Allemagne, Killjoy sécurise et défend les positions clés sans effort grâce à son arsenal d'inventions. Si son équipement ne suffit pas à arrêter l'ennemi, ce sont les entraves de ses robots qui en feront du menu fretin.
+
+
+Dans Valorant, vous incarnez un agent doté de compétences uniques, à utiliser pour attaquer et défendre. Chaque agent appartient à une classe spécifique : les duellistes, les initiateurs, les contrôleurs et les sentinelles.
+
+Les duellistes, comme Jett ou Phoenix, sont souvent utilisés pour ouvrir des brèches et créer des opportunités grâce à leur mobilité et leur puissance de feu.
+
+Les initiateurs, tels que Sova ou Breach, excellent dans la perturbation des positions ennemies avec des capacités de reconnaissance et de contrôle de foule.
+
+Les contrôleurs, comme Brimstone ou Viper, peuvent manipuler l'environnement avec des fumigènes et des barrières pour contrôler le flux du combat.
+
+Les sentinelles, telles que Sage ou Killjoy, sont spécialisées dans la défense et la protection des zones clés avec des outils de ralentissement et de détection.
+
+Chaque agent apporte une dimension stratégique différente au jeu, permettant des approches variées pour chaque match. Les joueurs doivent non seulement maîtriser les compétences de leur agent, mais aussi comprendre comment celles-ci interagissent avec les capacités des autres agents. Cela crée une profondeur stratégique où la communication et la coordination d'équipe sont essentielles pour réussir. Les joueurs doivent constamment adapter leurs stratégies en fonction des agents choisis par l'équipe adverse, ajoutant une couche supplémentaire de complexité et de replayabilité.
+
+Voir tous les agents
+
+
+
+
+### Section Cartes
+
+Vos cartes
+COMBATTEZ AUX QUATRE COINS DU MONDE
+Chaque carte vous permet de faire la démonstration de votre génie créatif. Elles ont toutes été créées pour favoriser les stratégies d'équipe, les actions spectaculaires et les moments de tension. Réussissez l'exploit que tous voudront reproduire dans les années à venir !
+
+SUNSET
+Une catastrophe dans un complexe de Kingdom menace de submerger tout le voisinage. Arrêtez-vous à votre camion-restaurant favori, puis battez-vous sur cette carte traditionnelle à trois voies.
+
+LOTUS
+Un mystérieux bâtiment traversé par un conduit astral gorgé de pouvoir antique. De grandes portes en pierre offrent de nombreux choix de déplacement et ouvrent l'accès à trois sites cachés.
+
+PEARL
+Les attaquants fondent sur les défenseurs dans le riche décor sous-marin de cette carte en deux sites. Pearl n’a pas de mécanique mais dépend de ses conditions géographiques. Ouvrez le feu dans une mêlée au milieu ou prenez de la distance sur les flancs de notre première carte située sur la Terre Omega.
+
+Voir toutes les cartes
+
+
+
+
+### Section Patch
+Notes de patch 10.11 VALORANT
+
+JOYEUX CINQUIÈME ANNIVERSAIRE À VALORANT ! Que vous jouiez depuis la bêta ou que vous veniez de découvrir le jeu, nous espérons que vous vous amusez et que vous créez des souvenirs inoubliables. C'est Ash qui vous parle aujourd'hui, et même si mon taux de victoire est en baisse, l'ambiance, elle, est au beau fixe. Parlons du patch 10.11.
+
+Nous avons ajouté une caméra de finition qui se déclenchera pour les finitions de skins, afin de réduire l'encombrement visuel. De plus, la carte Icebox restera désactivée en mode Combat à mort par équipe et Intensification, le temps de résoudre certains problèmes.
+
+Nous avons entendu dire que vous aimiez beaucoup la nouvelle vidéo anniversaire. Nous avons donc mis à jour la musique du menu de l'onglet Carrière avec un remix de Ego par Qing Madi.
+
+Dernier point, mais non des moindres, il est temps de dire à vos 4 coéquipiers préférés de se remettre au travail, car Premier a été mis à jour ! En plus du porte-bonheur et du titre, les gagnants recevront également un nouvel effet de carte de joueur qui sèmera la terreur chez les adversaires lorsqu'ils le verront sur l'écran de chargement.
+
+En route pour cinq nouvelles années pleines de victoires... et de défaites !
+
+
+
+
+### Section Configuration
+
+- Configuration requise
+- Minimum
+  - OS: Windows 7/8/10 (64-bit)
+  - Processor: Intel Core 2 Duo E8400 (Core i3 370M pour les ordinateurs portables)
+  - Memory: 4 GB RAM
+  - Graphics: Intel HD 3000
+
+- Recommandée
+  - OS: Windows 10 (64-bit)
+  - Processor: Intel i3-4150
+  - Memory: 4 GB RAM
+  - Graphics: Geforce GT 730
+
+
+
+
+### Bouton CTA
+Acheter sur Riot Games
+Site Officiel
+Jouer maintenant
+Jouer
+
+
+
+
+### Footer
+Reste informé !
+Reçois les dernières infos de nos produits et services
+Je m'abonne
+VALORANT & ©Riot Games, Inc.
